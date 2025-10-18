@@ -1,0 +1,4 @@
+Kami dari kelompok 8 melakukan penelitian kecil untuk memenuhi tugas Algoritma Pemrograman dengan Judul "PEMETAAN PERIODE KERAMAIAN MASJID KAMPUS:
+PENDEKATAN BINARY SEARCH UNTUK IDENTIFIKASI
+PUNCAK KUNJUNGAN DAN SEQUENTIAL SEARCH UNTUK
+WAKTU SEPI"
